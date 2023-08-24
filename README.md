@@ -13,3 +13,6 @@ Clase numero 11, esta tarea fue realizadas en las vacaciones de invierno
 Intento numero 2 para la actividad 3 de las actividades de las vacaciones de invierno
 
 Cambio n°1 realizado para la Clase 1 de Metodologia 
+
+Linea numero 1 Clase 1 i2
+Linea numero 2 Clase 1 i2
